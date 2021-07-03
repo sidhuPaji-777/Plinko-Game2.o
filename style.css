@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+}
+canvas {
+  display: block;
+  align-items: center;
+  justify-content: center;
+  /* padding-left: 400px */
+}
